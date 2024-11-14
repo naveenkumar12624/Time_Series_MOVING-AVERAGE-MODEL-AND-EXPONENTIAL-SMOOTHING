@@ -104,16 +104,16 @@ plt.show()
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/94bd403a-a02c-4928-93e7-bfadf3553319)
+<img src="https://github.com/user-attachments/assets/94bd403a-a02c-4928-93e7-bfadf3553319" width ="300">
 
 ### Adjusted Close Price (USD):
-![download](https://github.com/user-attachments/assets/fe07aadd-f51f-4a59-abb2-353178ff46e6)
+<img src="https://github.com/user-attachments/assets/fe07aadd-f51f-4a59-abb2-353178ff46e6" width ="500">
 
 ### Moving Average
-![download](https://github.com/user-attachments/assets/2f666614-334d-4cb6-a43d-9f9de3d49701)
+<img src="https://github.com/user-attachments/assets/2f666614-334d-4cb6-a43d-9f9de3d49701" width ="500">
 
 ### Exponential Smoothing
-![download](https://github.com/user-attachments/assets/4871c6e3-952f-4f72-b718-ad63566a64dd)
+<img src="https://github.com/user-attachments/assets/4871c6e3-952f-4f72-b718-ad63566a64dd" width ="500">
 
 
 ### RESULT:
